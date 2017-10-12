@@ -3,7 +3,8 @@ JSON Sprite engine for HTML5 Canvas
 
 Build JSON templates to define the colors, and their coordinates.  take a look at this example:
 
-```myTemplate = {
+```
+myTemplate = {
     "char":[
         {
         "color":"#000000",
@@ -20,7 +21,8 @@ Build JSON templates to define the colors, and their coordinates.  take a look a
         }
     ],
     "name":"smiley"
-};```
+};
+```
 
 Look a little complex?  Same...  
 
