@@ -48,6 +48,6 @@ Add Bit Spriter
 `<script src="bitspriter.js"></script>`
 
 Pass the template and canvas element into the bitspriter render function
-`bitspriter.render(document.getElementById('canvas'), myTemplate, {}, [0, 0] );`
+`bitSpriter.render(document.getElementById('canvas'), myTemplate, {}, [0, 0] );`
 
 
