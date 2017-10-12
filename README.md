@@ -1,7 +1,18 @@
 # bitspriter
 JSON Sprite engine for HTML5 Canvas
 
-Build JSON templates to define the colors, and their coordinates.  take a look at this example:
+## What!? Why?
+
+Heres a list of some of the cool things about using bitspriter.
+
+- No asset preloading
+- Change sprites on the fly, programatically.
+- Override functionality allows for edits or animations without a seperate template or asset.
+- Everything is javascript
+
+## Usage
+
+Build JSON templates to define the colors, and their coordinates.  Take a look at this example:
 
 ```
 myTemplate = {
@@ -28,7 +39,7 @@ Look a little complex?  Same...
 
 Thats why I'm building a companion web app to help create and generate these templates.  Check back later for a link.
 
-##Use The Template
+### Use The Template
 
 Define your canvas element.
 `<canvas id='canvas' width='500' height='500'></canvas>`
