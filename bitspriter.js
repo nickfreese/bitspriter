@@ -6,7 +6,7 @@
 *  - Copyright Nick Freese 2017
 */
 
-var spriter = {
+var bitSpriter = {
     
     
     //has full default values
