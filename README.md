@@ -37,7 +37,7 @@ myTemplate = {
 
 Look a little complex?  Same...  
 
-Thats why I'm building a companion web app to help create and generate these templates.  Check back later for a link.
+To make it easy, I built this handy dandy web app for drawing sprites!  https://bitspriter.nickfreese.com/
 
 ### Use The Template
 
